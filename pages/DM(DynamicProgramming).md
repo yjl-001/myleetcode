@@ -11,14 +11,15 @@
   card-ease-factor:: 2.5
   card-last-reviewed:: nil
 	- 最优子结构
-	  id:: 67a709fb-6fa4-453a-bb29-81aa473aa1d3
-	  card-last-interval:: -1
-	  card-repeats:: 1
-	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2025-02-08T16:00:00.000Z
-	  card-last-reviewed:: 2025-02-08T08:08:32.468Z
 	  card-last-score:: 1
+	  card-repeats:: 1
+	  card-next-schedule:: 2025-02-08T16:00:00.000Z
+	  card-last-interval:: -1
+	  id:: 67a709fb-6fa4-453a-bb29-81aa473aa1d3
+	  card-ease-factor:: 2.5
+	  card-last-reviewed:: 2025-02-08T08:08:32.468Z
 		- **原问题的最优解是从子问题的最优解构建得来的**
+		  id:: 67a70a45-553a-4d0b-a11e-4d3f128e0b04
 	- 无后效性
 	  id:: 67a70a07-ae9e-44f5-9f8c-0604c15faef3
 	  card-last-interval:: -1
@@ -43,4 +44,5 @@
 - 经典问题：
 - 类型:
 	- 斐波那契类型 [[斐波那契型]]
+	- 矩阵型[[矩阵]]
 	-
